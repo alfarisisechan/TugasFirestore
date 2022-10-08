@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "546960819796",
-    "project_id": "fir-demo-a92e3",
-    "storage_bucket": "fir-demo-a92e3.appspot.com"
+    "project_number": "1002156861839",
+    "project_id": "tugas-firestore",
+    "storage_bucket": "tugas-firestore.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:546960819796:android:a243f0476163c05c260fc1",
+        "mobilesdk_app_id": "1:1002156861839:android:6d3750c061d6d64fa403fa",
         "android_client_info": {
           "package_name": "com.example.firebase_auth_template"
         }
       },
       "oauth_client": [
         {
-          "client_id": "546960819796-flhmi8epspbb4ofc4q23acjuhnrkk0c9.apps.googleusercontent.com",
+          "client_id": "1002156861839-a7cass9p929jf42udkgjk6qed7902i88.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.firebase_auth_template",
-            "certificate_hash": "9a37907245f4cf06aeb5e4664e2129001fa5312a"
+            "certificate_hash": "11ddbefe40cb7d6720aaf020d11df3e9634f0a3c"
           }
         },
         {
-          "client_id": "546960819796-89d684673d297vkrt6o62chc8shuvgr2.apps.googleusercontent.com",
+          "client_id": "1002156861839-itknllfgfvo885tsh8tlulmthfjmo7o4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC5onLlpR_jo5hY1nSOBoacW55DHUpQKBY"
+          "current_key": "AIzaSyA1CQoMqre1mXimF8hMO67Z8DuzBDXxv5c"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "546960819796-89d684673d297vkrt6o62chc8shuvgr2.apps.googleusercontent.com",
+              "client_id": "1002156861839-itknllfgfvo885tsh8tlulmthfjmo7o4.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
